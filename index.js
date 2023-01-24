@@ -19,11 +19,9 @@ const App = () => {
                     ]}
                     renderSectionHeader={({ section: { title } }) =>
                         <Text style={{ backgroundColor: 'green' }}>{title}</Text>
-
                     }
                     renderItem={() =>
                         <View style={{ height: 300, backgroundColor: 'red' }}>
-
                         </View>
                     }
                 />
