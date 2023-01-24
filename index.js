@@ -12,8 +12,8 @@ const App = () => {
             <SafeAreaView>
                 <SectionList
                     sections={[
-                        { title: "testfds", data: [""] },
-                        { title: "test2r", data: [""] },
+                        { title: "testfdvcdss", data: [""] },
+                        { title: "test2rfds", data: [""] },
                         { title: "test3", data: [""] },
                         { title: "test4", data: [""] }
                     ]}
